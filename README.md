@@ -24,8 +24,6 @@ I'm a **results-driven Senior Full Stack Developer** with **3+ years of producti
 - 🚀 Mentoring junior developers and fostering collaborative engineering cultures
 - ☁️ Architecting cloud-native solutions with AWS and containerization
 
-**Key Achievement:** Delivered a **40% revenue increase** in a single quarter through strategic feature development at AIOW.
-
 ---
 
 ## 💻 Technical Skills
