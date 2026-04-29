@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Senior Full Stack Developer** | **Web3 & SaaS Specialist** | **AI/ML Enthusiast**
+**Full Stack Developer** | **Web3 & SaaS Specialist** | **AI/ML Enthusiast**
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/darshanpatel2904)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/darshan-patel-fullstack/)
